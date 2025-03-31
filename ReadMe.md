@@ -15,10 +15,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subx1s0o&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subx1s0o&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=subx1s0o&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
