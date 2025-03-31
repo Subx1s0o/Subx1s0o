@@ -15,3 +15,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subx1s0o&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
+[![Nazar Sabardin profile views](https://u8views.com/api/v1/github/profiles/68860695/views/day-week-month-total-count.svg)](https://u8views.com/github/Subx1s0o)
