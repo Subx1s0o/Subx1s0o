@@ -16,5 +16,3 @@
 ## 👀 GitHub Views
 [![Nazar Sabardin profile views](https://u8views.com/api/v1/github/profiles/68860695/views/day-week-month-total-count.svg)](https://u8views.com/github/Subx1s0o)
 
-## 🏆 Cyprus Top
-[![committers.top badge](https://user-badge.committers.top/cyprus/USERNAME.svg)](https://user-badge.committers.top/cyprus/USERNAME)
